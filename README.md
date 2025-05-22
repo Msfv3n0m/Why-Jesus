@@ -1,4 +1,5 @@
 # Why-Jesus
+The website is hosted [here](https://msfv3n0m.github.io/Why-Jesus/)
 ## Prereqs
 * docker
 * vscode
