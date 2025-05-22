@@ -1,4 +1,0 @@
----
-title: Template
-layout: default
----
